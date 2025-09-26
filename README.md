@@ -1,67 +1,211 @@
-<h1 align="center">Hola 👋, soy Adam Pithenwala</h1>
-<h3 align="center">Estudiante en MITS, Gwalior🌟.</h3>
+<h1 align="center">Hola 👋, David</h1>
+<h3 align="center">🌟 Backend 🌟.</h3>
 
-<br>
+<br />
 
-<p align="right"> <h3>Visitas al perfil:</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p>
+  <img
+    align="right"
+    src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
+    alt="adam-pw"
+  />
 </p>
 
-<br>
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes deprogramación. -
+- 📫 Cómo contactarme: **loko2003elcrack@gmail.com** -
+- ⚡ Datocurioso: La comida y la música🎵 son las razones para vivir.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación.
-
-- 📫 Cómo contactarme: **adampithewan@gmail.com**
-
-- ⚡ Dato curioso: La comida y la música🎵 son las razones para vivir.
-
-<br>
+<br />
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+  <a
+    href="https://www.linkedin.com/in/glen-david-quispe-tipte-888294316/"
+    target="blank"
+    ><img
+      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      alt="adam pithewan"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.facebook.com/glen.david.kate" target="blank"
+    ><img
+      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      alt="adam pithen wala"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.instagram.com/david_2603_j/" target="blank"
+    ><img
+      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+      alt="_._.adam._"
+      height="30"
+      width="40"
+  /></a>
+  <a href="#" target="blank"
+    ><img
+      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+      alt="adampithewan"
+      height="30"
+      width="40"
+  /></a>
+  <a href="#" target="blank"
+    ><img
+      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
-<br>
+<br />
 
 <h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
+<p align="left">
   <!-- Iconos -->
-  (los íconos no se traducen, pero representan tecnologías como Android, Bootstrap, C, C++, CSS, HTML, JavaScript, Java, Python, React, etc.)
+  (los íconos no se traducen, pero representan tecnologías como  ,
+  Bootstrap,  c# , CSS, HTML, JavaScript, Java, Python, n8n, PHP  etc.)
 </p>
 
-<br>
+<br />
 
-<h3>Datos estadísticos:</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+## :hammer_and_wrench: Languages and Tools:
+<div>
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"
+    title="React"
+    alt="React"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg.png"
+    title="C#"
+    alt="Material UI"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
+    title="CSS3"
+    alt="CSS"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
+    title="HTML5"
+    alt="HTML"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
+    title="JavaScript"
+    alt="JavaScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
+    title="Git"
+    alt="JavaScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
+    title="Git Hub"
+    alt="JavaScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8zft9AX8nJEggrdyrU_MkswdUD41cI9Dl7AsqtKxi32TlDpP1HWwfRSvH6mfBdEwX6U"
+    title="Flutteflow"
+    alt="TypeScript"
+    width="40"
+    height="40"
+  />&nbsp;
 
-<br>
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"
+    title="Firebase"
+    alt="NodeJS"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
+    title="Git"
+    alt="NodeJS"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg"
+    title="Supabase"
+    alt="C++"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"
+    title="Docker"
+    alt="Docker"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"
+    title="Postgres"
+    alt="Docker"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"
+    title="Spring boot"
+    alt="Docker"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.65.0/files/dark/n8n-color.png"
+    title="n8n"
+    alt="Docker"
+    width="40"
+    height="40"
+  />&nbsp;
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+---
 
-<br>
+<h3 align="center">Ayuda:</h3>
+<p align="center">
+  <a href="#">
+    <img
+      align="center"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      height="50"
+      width="210"
+      alt="scar2001"
+  /></a>
+</p>
+ 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br />
+ 
+
+<p align="left">
+  <a href="https://twitter.com/" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
+      alt=""
+  /></a>
+</p>
