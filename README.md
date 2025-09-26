@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, David</h1>
+<h1 align="center">Hola 👋, Soy David</h1>
 <h3 align="center">🌟 Backend 🌟.</h3>
 
 <br />
@@ -11,8 +11,8 @@
   />
 </p>
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes deprogramación. -
-- 📫 Cómo contactarme: **loko2003elcrack@gmail.com** -
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web y Automatizacion de procesos n8n.
+- 📫 Cómo contactarme: **loko2003elcrack@gmail.com**
 - ⚡ Datocurioso: La comida y la música🎵 son las razones para vivir.
 
 <br />
